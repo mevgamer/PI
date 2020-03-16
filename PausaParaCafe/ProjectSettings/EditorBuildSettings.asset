@@ -12,6 +12,15 @@ EditorBuildSettings:
     path: Assets/Scenes/opcao.unity
     guid: feabbcff1b9ddd245b197fc8b6c4c643
   - enabled: 1
-    path: Assets/Scenes/fase1BETA.unity
+    path: Assets/Scenes/fase/fs1/question_fs1.unity
     guid: 262a70fea23da084fb735e53b4a7ef47
+  - enabled: 1
+    path: Assets/Scenes/fase/fs1/start_fs1.unity
+    guid: 27b203352cc5b63499bd57f9d48df5bd
+  - enabled: 1
+    path: Assets/Scenes/fase/fs1/end_fs1.unity
+    guid: 819a56b336567634da8444594845e3ac
+  - enabled: 1
+    path: Assets/Scenes/droga.unity
+    guid: 0729a47c9a4df9f4980fad7ad8dcf242
   m_configObjects: {}

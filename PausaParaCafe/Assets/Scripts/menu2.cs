@@ -26,7 +26,7 @@ public class menu2 : MonoBehaviour
     public void IniciarJogo()
     {
         {
-            UnityEngine.SceneManagement.SceneManager.LoadScene("fase1BETA");
+            UnityEngine.SceneManagement.SceneManager.LoadScene("start_fs1");
         }
     }
     public void Sair()
