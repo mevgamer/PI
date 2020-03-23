@@ -10,12 +10,7 @@ public class fs1 : MonoBehaviour
         
     }
 
-    public void NextF()
-    {
-        {
-            UnityEngine.SceneManagement.SceneManager.LoadScene("end_fs1");
-        }
-    }
+    
 
     public void Voltar()
     {
@@ -23,12 +18,7 @@ public class fs1 : MonoBehaviour
             UnityEngine.SceneManagement.SceneManager.LoadScene("start_fs1");
         }
     }
-    public void Errou()
-    {
-        {
-            UnityEngine.SceneManagement.SceneManager.LoadScene("menu");
-        }
-    }
+    
 
     // Update is called once per frame
     void Update()

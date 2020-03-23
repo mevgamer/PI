@@ -84,6 +84,7 @@ public class options : MonoBehaviour
 
 
         AplicarPreferencias();
+        CenaMenu();
     }
     public void AplicarPreferencias()
     {
