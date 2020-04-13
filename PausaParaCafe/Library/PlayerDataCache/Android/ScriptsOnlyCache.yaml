@@ -1,13 +1,17 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
-    - droga
+    - end_fs2
     - endfs1
     - errou
+    - finalF
     - fs1
+    - fs2_1
+    - historia
     - img1
     - menu2
     - options
+    - overTime2
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
     - UnityEditor.Tilemaps.GridPaletteBrushes
@@ -35,7 +39,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Text
     - UnityEngine.UI.Toggle
   sceneClasses:
-    Assets/Scenes/droga.unity:
+    Assets/Scenes/fase/final/finalF.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -61,13 +65,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11784}
     - Class: 114
-      Script: {instanceID: 12198}
+      Script: {instanceID: 12202}
     - Class: 114
-      Script: {instanceID: 12712}
+      Script: {instanceID: 12322}
     - Class: 114
-      Script: {instanceID: 12770}
+      Script: {instanceID: 12720}
     - Class: 114
-      Script: {instanceID: 13096}
+      Script: {instanceID: 13102}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -110,13 +114,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11784}
     - Class: 114
-      Script: {instanceID: 12000}
+      Script: {instanceID: 12004}
     - Class: 114
-      Script: {instanceID: 12198}
+      Script: {instanceID: 12202}
     - Class: 114
-      Script: {instanceID: 12712}
+      Script: {instanceID: 12720}
     - Class: 114
-      Script: {instanceID: 13096}
+      Script: {instanceID: 13102}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -161,11 +165,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11784}
     - Class: 114
-      Script: {instanceID: 12198}
+      Script: {instanceID: 12202}
     - Class: 114
-      Script: {instanceID: 12712}
+      Script: {instanceID: 12720}
     - Class: 114
-      Script: {instanceID: 13096}
+      Script: {instanceID: 13102}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -181,6 +185,23 @@ ScriptsOnlyBuild:
     - Class: 223
       Script: {instanceID: 0}
     - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/fase/fs1/overTime1.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
       Script: {instanceID: 0}
     Assets/Scenes/fase/fs1/question_fs1.unity:
     - Class: 1
@@ -208,13 +229,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11784}
     - Class: 114
-      Script: {instanceID: 12198}
+      Script: {instanceID: 12202}
     - Class: 114
-      Script: {instanceID: 12648}
+      Script: {instanceID: 12656}
     - Class: 114
-      Script: {instanceID: 12712}
+      Script: {instanceID: 12720}
     - Class: 114
-      Script: {instanceID: 13096}
+      Script: {instanceID: 13102}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -257,13 +278,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11784}
     - Class: 114
-      Script: {instanceID: 12018}
+      Script: {instanceID: 12022}
     - Class: 114
-      Script: {instanceID: 12198}
+      Script: {instanceID: 12202}
     - Class: 114
-      Script: {instanceID: 12712}
+      Script: {instanceID: 12720}
     - Class: 114
-      Script: {instanceID: 13096}
+      Script: {instanceID: 13102}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -279,6 +300,317 @@ ScriptsOnlyBuild:
     - Class: 223
       Script: {instanceID: 0}
     - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/fase/fs2/end_fs2.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11154}
+    - Class: 114
+      Script: {instanceID: 11324}
+    - Class: 114
+      Script: {instanceID: 11364}
+    - Class: 114
+      Script: {instanceID: 11784}
+    - Class: 114
+      Script: {instanceID: 11912}
+    - Class: 114
+      Script: {instanceID: 12202}
+    - Class: 114
+      Script: {instanceID: 12720}
+    - Class: 114
+      Script: {instanceID: 13102}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/fase/fs2/errou2.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11154}
+    - Class: 114
+      Script: {instanceID: 11324}
+    - Class: 114
+      Script: {instanceID: 11364}
+    - Class: 114
+      Script: {instanceID: 11784}
+    - Class: 114
+      Script: {instanceID: 12202}
+    - Class: 114
+      Script: {instanceID: 12430}
+    - Class: 114
+      Script: {instanceID: 12720}
+    - Class: 114
+      Script: {instanceID: 13102}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/fase/fs2/fs2_1.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11154}
+    - Class: 114
+      Script: {instanceID: 11324}
+    - Class: 114
+      Script: {instanceID: 11364}
+    - Class: 114
+      Script: {instanceID: 11784}
+    - Class: 114
+      Script: {instanceID: 11942}
+    - Class: 114
+      Script: {instanceID: 12202}
+    - Class: 114
+      Script: {instanceID: 12720}
+    - Class: 114
+      Script: {instanceID: 13102}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/fase/fs2/overTime2.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11154}
+    - Class: 114
+      Script: {instanceID: 11324}
+    - Class: 114
+      Script: {instanceID: 11364}
+    - Class: 114
+      Script: {instanceID: 11784}
+    - Class: 114
+      Script: {instanceID: 12202}
+    - Class: 114
+      Script: {instanceID: 12430}
+    - Class: 114
+      Script: {instanceID: 12720}
+    - Class: 114
+      Script: {instanceID: 13102}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/fase/his/his1.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11154}
+    - Class: 114
+      Script: {instanceID: 11324}
+    - Class: 114
+      Script: {instanceID: 11364}
+    - Class: 114
+      Script: {instanceID: 11784}
+    - Class: 114
+      Script: {instanceID: 12202}
+    - Class: 114
+      Script: {instanceID: 12720}
+    - Class: 114
+      Script: {instanceID: 13102}
+    - Class: 114
+      Script: {instanceID: 14258}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/fase/his/his2.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11154}
+    - Class: 114
+      Script: {instanceID: 11324}
+    - Class: 114
+      Script: {instanceID: 11364}
+    - Class: 114
+      Script: {instanceID: 11784}
+    - Class: 114
+      Script: {instanceID: 12202}
+    - Class: 114
+      Script: {instanceID: 12720}
+    - Class: 114
+      Script: {instanceID: 13102}
+    - Class: 114
+      Script: {instanceID: 14258}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/fase/his/his3.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
       Script: {instanceID: 0}
     Assets/Scenes/menu.unity:
     - Class: 1
@@ -306,13 +638,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11784}
     - Class: 114
-      Script: {instanceID: 12122}
+      Script: {instanceID: 12126}
     - Class: 114
-      Script: {instanceID: 12198}
+      Script: {instanceID: 12202}
     - Class: 114
-      Script: {instanceID: 12712}
+      Script: {instanceID: 12720}
     - Class: 114
-      Script: {instanceID: 13096}
+      Script: {instanceID: 13102}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -359,21 +691,21 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11784}
     - Class: 114
-      Script: {instanceID: 11982}
+      Script: {instanceID: 11986}
     - Class: 114
-      Script: {instanceID: 12198}
+      Script: {instanceID: 12202}
     - Class: 114
-      Script: {instanceID: 12522}
+      Script: {instanceID: 12530}
     - Class: 114
-      Script: {instanceID: 12712}
+      Script: {instanceID: 12720}
     - Class: 114
-      Script: {instanceID: 13084}
+      Script: {instanceID: 13090}
     - Class: 114
-      Script: {instanceID: 13096}
+      Script: {instanceID: 13102}
     - Class: 114
-      Script: {instanceID: 13112}
+      Script: {instanceID: 13118}
     - Class: 114
-      Script: {instanceID: 13128}
+      Script: {instanceID: 13134}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -597,6 +929,18 @@ ScriptsOnlyBuild:
     className: Selectable
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: end_fs2
+  - hash:
+      serializedVersion: 2
+      Hash: 657c8513f0819da110c3362cf2477dcf
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: fs2_1
+  - hash:
+      serializedVersion: 2
       Hash: b3ab2106268377ffe25dd18ac23dca28
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -621,7 +965,7 @@ ScriptsOnlyBuild:
     className: SignalTrack
   - hash:
       serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+      Hash: 657c8513f0819da110c3362cf2477dcf
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: img1
@@ -669,6 +1013,12 @@ ScriptsOnlyBuild:
     className: VerticalLayoutGroup
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: finalF
+  - hash:
+      serializedVersion: 2
       Hash: 783f593b9380cf72d0f7ebfd4a0d4bcd
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -679,6 +1029,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: overTime2
   - hash:
       serializedVersion: 2
       Hash: 5ad4aa237d47ac2bab17bacb672edf7a
@@ -757,12 +1113,6 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools
     className: BeforeAfterTestCommandState
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: droga
   - hash:
       serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
@@ -871,6 +1221,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: historia
   platform: 13
   scenePathNames:
   - Assets/Scenes/menu.unity
@@ -878,6 +1234,14 @@ ScriptsOnlyBuild:
   - Assets/Scenes/fase/fs1/question_fs1.unity
   - Assets/Scenes/fase/fs1/start_fs1.unity
   - Assets/Scenes/fase/fs1/end_fs1.unity
-  - Assets/Scenes/droga.unity
   - Assets/Scenes/fase/fs1/errou.unity
-  playerPath: C:/Users/thiag/Desktop/PI/PausaParaCafe/PausaBeta5.apk
+  - Assets/Scenes/fase/fs1/overTime1.unity
+  - Assets/Scenes/fase/fs2/overTime2.unity
+  - Assets/Scenes/fase/his/his1.unity
+  - Assets/Scenes/fase/final/finalF.unity
+  - Assets/Scenes/fase/fs2/fs2_1.unity
+  - Assets/Scenes/fase/his/his2.unity
+  - Assets/Scenes/fase/his/his3.unity
+  - Assets/Scenes/fase/fs2/errou2.unity
+  - Assets/Scenes/fase/fs2/end_fs2.unity
+  playerPath: C:/Users/thiag/Documents/PI/PausaParaCafe/PausaBeta8.apk

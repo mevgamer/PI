@@ -27,11 +27,26 @@ EditorBuildSettings:
     path: Assets/Scenes/fase/fs1/overTime1.unity
     guid: 78ebcf4b44005504cb051ef51005acea
   - enabled: 1
-    path: Assets/Scenes/fase/fs2/fs2_1.unity
-    guid: 1f6fc562aed780b41b7766c4dd2e416a
-  - enabled: 1
     path: Assets/Scenes/fase/fs2/overTime2.unity
     guid: 38ab81933c408084b8d6d489866c7e2b
+  - enabled: 1
+    path: Assets/Scenes/fase/his/his1.unity
+    guid: d0b14f64c4c311e4daca3be5a6a86ab5
+  - enabled: 1
+    path: Assets/Scenes/fase/final/finalF.unity
+    guid: 726ca9ea9ad747143adfa15b70d73641
+  - enabled: 1
+    path: Assets/Scenes/fase/fs2/fs2_1.unity
+    guid: 6f95d9b6e7268b64ba42f77b30f0d032
+  - enabled: 1
+    path: Assets/Scenes/fase/his/his2.unity
+    guid: 1f8af63a49633bb49b1f31c3203b8435
+  - enabled: 1
+    path: Assets/Scenes/fase/his/his3.unity
+    guid: efcba5389d0f7c74480d394fd61b2570
+  - enabled: 1
+    path: Assets/Scenes/fase/fs2/errou2.unity
+    guid: 83a64929d97a7ae4dbd1339e3eab0c3c
   - enabled: 1
     path: Assets/Scenes/fase/fs2/end_fs2.unity
     guid: b3104a5fd36a7074eacea9332f13dc9c

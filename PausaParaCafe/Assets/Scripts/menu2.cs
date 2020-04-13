@@ -18,6 +18,10 @@ public class menu2 : MonoBehaviour
         
     }
 
+    public void hist1()
+    {
+        UnityEngine.SceneManagement.SceneManager.LoadScene("his1");
+    }
     public void CenaOptions() {
         {
             UnityEngine.SceneManagement.SceneManager.LoadScene("opcao");
