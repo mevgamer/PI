@@ -45,6 +45,9 @@ EditorBuildSettings:
     path: Assets/Scenes/fase/his/his3.unity
     guid: efcba5389d0f7c74480d394fd61b2570
   - enabled: 1
+    path: Assets/Scenes/fase/mvfs/mvfs1.unity
+    guid: ae470eaa91b07d641b571b8258ae80bd
+  - enabled: 1
     path: Assets/Scenes/fase/fs2/errou2.unity
     guid: 83a64929d97a7ae4dbd1339e3eab0c3c
   - enabled: 1

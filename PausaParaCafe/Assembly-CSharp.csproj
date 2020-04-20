@@ -68,7 +68,6 @@
     <Compile Include="Assets\Scenes\fase\fs2\end_fs2.cs" />
     <Compile Include="Assets\Scenes\fase\fs2\overTime2.cs" />
     <Compile Include="Assets\Scenes\fase\his\historia.cs" />
-    <Compile Include="Assets\Scenes\fase\mvfs\move.cs" />
     <Compile Include="Assets\Scripts\fase\fs1\endfs1.cs" />
     <Compile Include="Assets\Scripts\fase\fs1\errou.cs" />
     <Compile Include="Assets\Scripts\fase\fs1\fs1.cs" />
@@ -76,6 +75,7 @@
     <Compile Include="Assets\Scripts\fase\fs2\fs2_1.cs" />
     <Compile Include="Assets\Scripts\iniciar.cs" />
     <Compile Include="Assets\Scripts\menu2.cs" />
+    <Compile Include="Assets\Scripts\movimentarUI.cs" />
     <Compile Include="Assets\Scripts\options.cs" />
     <Compile Include="Assets\Scripts\sair.cs" />
     <Reference Include="Unity.Timeline.Editor">

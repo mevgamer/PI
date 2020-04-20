@@ -20,7 +20,7 @@ public class menu2 : MonoBehaviour
 
     public void hist1()
     {
-        UnityEngine.SceneManagement.SceneManager.LoadScene("his1");
+        UnityEngine.SceneManagement.SceneManager.LoadScene("mvfs1");
     }
     public void CenaOptions() {
         {
